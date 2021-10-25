@@ -28,8 +28,9 @@ Detallaremos los beneficios en la siguiente tabla:
 ## Centrado
 
 $$
-Examen de certificación
+Examen de certificacion
 $$
+
 > Toma nota**Super Genial* Registarte [here](https://geekmonkeytech.com).
  ![enter image description here](https://www.geekmonkeytech.com/images/logo.png)
 
@@ -58,4 +59,3 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
-
