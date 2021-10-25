@@ -25,7 +25,6 @@ Detallaremos los beneficios en la siguiente tabla:
 |Cursos online|`'En vivo'`            |'Clases diferidas'            |
 |100% Practico          |`"certificacion"`            |"Global"           
 
-
 ## Centrado
 
 $$
@@ -59,3 +58,4 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
