@@ -31,6 +31,6 @@ $$
 Examen de certificacion
 $$
 
-> Toma nota**Super Genial* Registarte [here](https://geekmonkeytech.com).
+> Toma nota _**Super Genial**_ Registarte [here](https://geekmonkeytech.com).
  ![enter image description here](https://www.geekmonkeytech.com/images/logo.png)
 
